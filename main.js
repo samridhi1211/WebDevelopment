@@ -107,4 +107,6 @@ document.getElementById('userMessage').addEventListener('keydown', function(even
     if (event.key === 'Enter') {
         sendMessage();
     }
-});
+}
+)
+;
